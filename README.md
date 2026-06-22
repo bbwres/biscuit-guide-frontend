@@ -71,6 +71,3 @@ pnpm dev
 - E2E（Playwright）
 - 业务页面路由注册（目前仅 Login + Dashboard 在静态路由；其他页面通过后端 `userMenu/tree` 动态注入）
 
-## 许可
-
-内部项目。
