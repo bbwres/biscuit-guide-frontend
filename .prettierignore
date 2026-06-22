@@ -1,0 +1,6 @@
+node_modules
+dist
+coverage
+auto-imports.d.ts
+components.d.ts
+pnpm-lock.yaml
